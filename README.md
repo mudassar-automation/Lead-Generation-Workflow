@@ -3,9 +3,9 @@
 An advanced, AI-powered **Lead Generation System** designed to automate and streamline your entire outreach workflow — from data collection to enrichment and personalized contact automation.  
 
 This repository contains **three core agents**, each handling a different stage of the lead generation process:  
-1. **Lead Generation Agent**  
-2. **Google Maps to Email Scraper (with Google Sheets Export)** 
-3. **LinkedIn Automation & Personalization (Lead Enrichment)**  
+[1. **Lead Generation Agent**](https://github.com/mudassar-automation/Lead-Generation-Workflow/blob/main/Lead%20Generation%20Agent.json)  
+[2. **Google Maps to Email Scraper (with Google Sheets Export)**](https://github.com/mudassar-automation/Lead-Generation-Workflow/blob/main/Google%20Maps%20to%20Email%20Scraper%20(with%20Google%20Sheets%20Export).json) 
+[3. **LinkedIn Automation & Personalization (Lead Enrichment)**](https://github.com/mudassar-automation/Lead-Generation-Workflow/blob/main/LinkedIn%20Automation%20%26%20Personalization%20(Lead%20Enrichment).json)  
 
 ---
 
@@ -98,6 +98,7 @@ Once configured, this workflow becomes your **AI-powered Lead Machine** — find
 
 No manual scraping, no repetitive outreach — just **smart, scalable lead generation**.
 
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Lead-Generation-Workflow/blob/main/Lead%20Generation%20Agent.json)
 ---
 
 ### 2️⃣ Google Maps to Email Scraper with Google Sheets Export 
@@ -266,6 +267,7 @@ Scale the system even further with:
 The **Google Maps Email Scraper System** is a cost-free, scalable solution for generating business leads with **zero paid APIs**.  
 Whether you're a marketer, freelancer, or agency owner, this system gives you the ability to find and extract leads for any industry or location — fast, free, and fully automated.
 
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Lead-Generation-Workflow/blob/main/Google%20Maps%20to%20Email%20Scraper%20(with%20Google%20Sheets%20Export).json) 
 ---
 
 ### 3️⃣ Lead Generation Automation on LinkedIn — Personalization & Enrichment  
@@ -403,7 +405,5 @@ Once configured, this workflow becomes a **fully automated LinkedIn Lead Machine
 
 You get **verified, enriched, and ready-to-contact leads** with minimal manual input — ideal for sales teams, agencies, and B2B marketers.
 
----
-
-
+➡️ [Click here to view the complete workflow code](https://github.com/mudassar-automation/Lead-Generation-Workflow/blob/main/LinkedIn%20Automation%20%26%20Personalization%20(Lead%20Enrichment).json)  
 ---
